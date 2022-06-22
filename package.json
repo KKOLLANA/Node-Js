@@ -1,5 +1,5 @@
 {
-  "name": "node-js",
+  "name": "js",
   "version": "1.0.0",
   "description": "1) What is Npm?",
   "main": "index.js",
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/KKOLLANA/Node-Js.git"
   },
   "keywords": [],
-  "author": "Kiran",
-  "license": "capgemini",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/KKOLLANA/Node-Js/issues"
   },
