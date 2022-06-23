@@ -1,5 +1,4 @@
-
-// importing this object to Index.js
+// Exporting this object to Index.js
 kiran = {
     name:"Kiran",
     favnum : 7,
@@ -7,6 +6,3 @@ kiran = {
 }
 
 module.exports = kiran;
-
-
- 
