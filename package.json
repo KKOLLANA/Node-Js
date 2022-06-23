@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KKOLLANA/Node-Js/issues"
   },
-  "homepage": "https://github.com/KKOLLANA/Node-Js#readme"
+  "homepage": "https://github.com/KKOLLANA/Node-Js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
