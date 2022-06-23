@@ -1,3 +1,3 @@
-const kiran = require("./sick");  //importing the sick bojects in index file
+const kiran = require("./sick");  //importing the sick objects in index file
 
 console.log("Hello world",kiran)
