@@ -1,27 +1,17 @@
 {
-  "name": "js",
+  "name": "new-folder",
   "version": "1.0.0",
-  "description": "1) What is Npm?",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KKOLLANA/Node-Js.git"
-  },
   "keywords": [],
   "author": "",
+  "type": "module",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KKOLLANA/Node-Js/issues"
-  },
-  "homepage": "https://github.com/KKOLLANA/Node-Js#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.16"
-  },
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "os": "^0.1.2"
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.18"
   }
 }
