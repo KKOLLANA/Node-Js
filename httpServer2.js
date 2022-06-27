@@ -9,10 +9,6 @@ const server = http.createServer((req, res) =>{   //it is a method which is in t
       
     res.end('<h1> This is kiran</h1');
 
-
-
-
-
 })
 server.listen(port, () =>{
     console.log('server is listening on port ${port}');
