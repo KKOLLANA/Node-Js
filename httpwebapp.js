@@ -12,7 +12,7 @@ const server  = http.createServer((req, res)=>{
         // const data = fs.readFileSync('index.html'); 
         // res.end(data.toString());
     }
-    else if(req.url == '/cwh'){
+    else if(req.url == '/me'){
         res.statusCode = 200;
         res.end('<h1> This is kirankumar</h1> <p> go head</p>');
     }
@@ -21,7 +21,7 @@ const server  = http.createServer((req, res)=>{
         res.end('<h1> About kirankumar</h1> <p> Hey this is about kiran kumar!</p>');
     } 
     else{
-        
+        // res.harry();
         res.statusCode = 404;
         res.end('<h1> Not Found</h1> <p> Hey this page was not found on this server</p>');
     }
